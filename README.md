@@ -4,7 +4,7 @@ This repository contains Python examples that cover intermediate-level concepts 
 
 ## 📂 Files Included
 
-- `List Methods.py`: A set of intermediate-level questions and answers using Python list methods.
+- `List Methods.py`: This file contains examples of commonly used Python list methods. 
 - `List examples.py`: Practical programs showing various list operations like:
   - Adding/removing items
   - Searching and indexing

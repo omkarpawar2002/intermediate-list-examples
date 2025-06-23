@@ -4,8 +4,8 @@ This repository contains Python examples that cover intermediate-level concepts 
 
 ## 📂 Files Included
 
-- `list_methods_qna.py`: A set of intermediate-level questions and answers using Python list methods.
-- `list_examples.py`: Practical programs showing various list operations like:
+- `List Methods.py`: A set of intermediate-level questions and answers using Python list methods.
+- `List examples.py`: Practical programs showing various list operations like:
   - Adding/removing items
   - Searching and indexing
   - List slicing and iteration
